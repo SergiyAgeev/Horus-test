@@ -33,10 +33,6 @@ public class MyStructure implements IMyStructure {
             this.code = code;
         }
 
-        public String getRendered() {
-            return rendered;
-        }
-
         public void setRendered(String rendered) {
             this.rendered = rendered;
         }
